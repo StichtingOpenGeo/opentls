@@ -1,9 +1,9 @@
 Application flow of ov-chipkaart.nl
 ===================================
 
-![sequencediagram](https://raw.github.com/StichtingOpenGeo/opentls/master/docs/img/sequencediagram.png)
+![sequence diagram](https://raw.github.com/StichtingOpenGeo/opentls/master/docs/img/sequencediagram.png)
 
-Source for [a link](https://websequencediagrams.com)
+Source for [websequencediagrams.com](https://websequencediagrams.com)
 
 ```
 title Application flow of ov-chipkaart.nl
